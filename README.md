@@ -1,1 +1,1 @@
-A SQL Project to analyse Online Music Store Data
+An SQL Project to analyse Online Music Store Data
